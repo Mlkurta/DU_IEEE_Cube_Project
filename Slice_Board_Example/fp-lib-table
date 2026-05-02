@@ -1,4 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "SN74HC595DR") (type "KiCad") (uri "${KIPRJMOD}/Components/SN74HC595DR") (options "") (descr ""))
-)
